@@ -18,7 +18,7 @@ Iron Key Capital is the brand name for the parent company Iron Key Ventures LLC,
 
 Iron Key Venture Partners LLC is a member-managed LLC based in Wyoming. Our Investment Club votes on startups 1x per month, deploys capital 4x per year, at a $25k - $100k check size into Seed Stage startups building at the intersection of web3 & AGI.
 
-Iron Key Ventures LLC, a manager-managed LLC, owns 51%, subject to diliution, in the investment club.
+Iron Key Ventures LLC, a manager-managed LLC, owns 51%, subject to dilution, in the investment club.
 
 
 # Values and Ethos:
